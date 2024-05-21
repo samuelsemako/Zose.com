@@ -1,0 +1,75 @@
+/* Paramount */
+body{
+    background: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+/* header style */
+
+header{
+    background: #fff;
+    min-height: 70px;
+    display: flex;
+    flex-direction: column;
+}
+
+header .top-div{
+    background: #000;
+    min-height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+header .top-div .inner-div{
+    width: 85%;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+}
+
+header .top-div .inner-div .icon-div{
+    display: flex;
+    gap: 15px;
+    font-size: 18px;
+}
+
+
+header .top-div .inner-div .icon-div i{
+    cursor: pointer;
+}
+
+
+header .bottom-div{
+    min-height: 70px;
+    width: 100%;
+    background: brown;
+}
