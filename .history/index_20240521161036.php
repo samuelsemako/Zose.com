@@ -30,11 +30,10 @@
 				<nav>
 					<ul>
 						<li>Home</li>
-						<li>Shop</li>
-						<li>Pages</li>
-						<li>About</li>
-						<li>Blog</li>
-						<li>Contact</li>
+						<li>Home</li>
+						<li>Home</li>
+						<li>Home</li>
+						<li>Home</li>
 					</ul>
 				</nav>
 
@@ -51,35 +50,5 @@
 		</div>
 	</header>
     
-	<section class="index-content">
-		<section class="body-div">
-			<div class="body-div-in">
-				<div class="body-text-div">
-					<h1><span>CCTV Systems</span><br> & Access control</h1>
-					<p>Suspendisse tincidunt ornare sem, at venenatis<br/>  lorem tempor vel.
-						Sed feugiat sit amet nisi non<br/> dignissim. Duis egestas augue at nisi
-						pharetra<br/> porta enenatis lorem tempor.
-					</p>
-					<button>Order Now <i class="bi-arrow-right"></i></button>
-				</div>
-
-				<div class="image">
-					<img src="all-images/images/wall-camera.png" alt="wall camera">
-				</div>
-			</div>
-		</section >
-
-		<div class="brand-div">
-			<div class="brand-in-div">
-				<img src="all-images/brand1.png" alt="">
-				<img src="all-images/brand4.png" alt="">
-				<img src="all-images/brand2.png" alt="">
-				<img src="all-images/brand3.png" alt="">
-				<img src="all-images/brand1.png" alt="">
-			</div>	
-	</div>
-	</section>
-
-	
 </body>
 </html>
